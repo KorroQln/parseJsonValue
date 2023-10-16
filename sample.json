@@ -1,0 +1,377 @@
+{
+    "id": "xx11xx",
+    "score": 100,
+    "name": "Company Cloud",
+    "publisher": {
+        "id": "xxpub-id-xx",
+        "name": "Company NV"
+    },
+    "supplier":{
+        "critically": null,
+        "externally": null,
+        "supplier": {
+            "name": "Vendor.AI",
+            "country": "OTHER"
+        },
+        "details": {
+            "notes": ""
+        }
+    },
+    "description": "Company Cloud Qs",
+    "version": "v1.0",
+    "draft": "20231011",
+    "sentToSupplier": "20231011",
+    "sentForReview": "20231011",
+    "completed": "20231011",
+    "deadline": "20231011",
+    "deleted": null,
+    "status": "ACCEPTED",
+    "section": [
+        {
+            "id": "xx1132x",
+            "name": "App Integration",
+            "parentSection": null,
+            "description": "",
+            "index": 0,
+            "tags": [
+                "undefined"
+            ],
+            "sectionQuestions": [
+                {
+                    "id": "xx101dxxxs",
+                    "index": 0,
+                    "deleted": null,
+                    "deprecated": false,
+                    "question": {
+                        "id": "xx2312c",
+                        "reference": "MALBAT-111",
+                        "question": "This is Q1",
+                        "category": null,
+                        "description": "",
+                        "objective": "",
+                        "evidenceRequired": false,
+                        "notApplicablePossible": false,
+                        "tags": [],
+                        "type": "OPEN",
+                        "response": {
+                            "id": "xxwdxxz",
+                            "message": [],
+                            "evidenceRequired": false,
+                            "evidences": [],
+                            "notApplicable": null,
+                            "OpenAnswer": "Yes . answer1",
+                            "overridden": false,
+                            "respondedAt": "20231114",
+                            "score": 100,
+                            "status": "ACCEPTED",
+                            "choices": []
+                        },
+                        "option": []
+                    }
+                },
+                {
+                    "id": "xx101dxxasdsas",
+                    "index": 1,
+                    "deleted": null,
+                    "deprecated": false,
+                    "question": {
+                        "id": "xx231233c",
+                        "reference": "MALBAT-112",
+                        "question": "This is Q2",
+                        "category": null,
+                        "description": "",
+                        "objective": "",
+                        "evidenceRequired": false,
+                        "notApplicablePossible": false,
+                        "tags": [],
+                        "type": "OPEN",
+                        "response": {
+                            "id": "xxwdxxz",
+                            "message": [],
+                            "evidenceRequired": false,
+                            "evidences": [],
+                            "notApplicable": null,
+                            "OpenAnswer": "Yes . answer2",
+                            "overridden": false,
+                            "respondedAt": "20231114",
+                            "score": 100,
+                            "status": "ACCEPTED",
+                            "choices": []
+                        },
+                        "option": []
+                    }
+                },
+                {
+                    "id": "xx101dxxasdsas",
+                    "index": 2,
+                    "deleted": null,
+                    "deprecated": false,
+                    "question": {
+                        "id": "xx231233c",
+                        "reference": "MALBAT-113",
+                        "question": "This is Q3",
+                        "category": null,
+                        "description": "",
+                        "objective": "",
+                        "evidenceRequired": false,
+                        "notApplicablePossible": false,
+                        "tags": [],
+                        "type": "OPEN",
+                        "response": {
+                            "id": "xxwdxxz",
+                            "message": [],
+                            "evidenceRequired": false,
+                            "evidences": [],
+                            "notApplicable": null,
+                            "OpenAnswer": "Yes . answer3",
+                            "overridden": false,
+                            "respondedAt": "20231114",
+                            "score": 100,
+                            "status": "ACCEPTED",
+                            "choices": []
+                        },
+                        "option": []
+                    }
+                },
+                {
+                    "id": "xx101dxxasdsas",
+                    "index": 3,
+                    "deleted": null,
+                    "deprecated": false,
+                    "question": {
+                        "id": "xx231233c",
+                        "reference": "MALBAT-114",
+                        "question": "This is Q4",
+                        "category": null,
+                        "description": "",
+                        "objective": "",
+                        "evidenceRequired": false,
+                        "notApplicablePossible": false,
+                        "tags": [],
+                        "type": "OPEN",
+                        "response": {
+                            "id": "xxwdxxz",
+                            "message": [],
+                            "evidenceRequired": false,
+                            "evidences": [],
+                            "notApplicable": null,
+                            "OpenAnswer": "Yes . answer4",
+                            "overridden": false,
+                            "respondedAt": "20231114",
+                            "score": 100,
+                            "status": "ACCEPTED",
+                            "choices": []
+                        },
+                        "option": []
+                    }
+                },
+                {
+                    "id": "xx101dxxasdsas",
+                    "index": 4,
+                    "deleted": null,
+                    "deprecated": false,
+                    "question": {
+                        "id": "xx231233c",
+                        "reference": "MALBAT-115",
+                        "question": "This is Q5",
+                        "category": null,
+                        "description": "",
+                        "objective": "",
+                        "evidenceRequired": false,
+                        "notApplicablePossible": false,
+                        "tags": [],
+                        "type": "OPEN",
+                        "response": {
+                            "id": "xxwdxxz",
+                            "message": [],
+                            "evidenceRequired": false,
+                            "evidences": [],
+                            "notApplicable": null,
+                            "OpenAnswer": "Yes . answer5",
+                            "overridden": false,
+                            "respondedAt": "20231114",
+                            "score": 100,
+                            "status": "ACCEPTED",
+                            "choices": []
+                        },
+                        "option": []
+                    }
+                }
+            ],
+            "section": []
+        },
+        {
+            "id": "xx1132x",
+            "name": "Emergency Acc",
+            "parentSection": null,
+            "description": "",
+            "index": 1,
+            "tags": [
+                "undefined"
+            ],
+            "sectionQuestions": [
+                {
+                    "id": "xx101dxxxs",
+                    "index": 0,
+                    "deleted": null,
+                    "deprecated": false,
+                    "question": {
+                        "id": "xx2312c",
+                        "reference": "MALBAT-221",
+                        "question": "This is 2Q1",
+                        "category": null,
+                        "description": "",
+                        "objective": "",
+                        "evidenceRequired": false,
+                        "notApplicablePossible": false,
+                        "tags": [],
+                        "type": "OPEN",
+                        "response": {
+                            "id": "xxwdxxz",
+                            "message": [],
+                            "evidenceRequired": false,
+                            "evidences": [],
+                            "notApplicable": null,
+                            "OpenAnswer": "Yes . answer21",
+                            "overridden": false,
+                            "respondedAt": "20231114",
+                            "score": 100,
+                            "status": "ACCEPTED",
+                            "choices": []
+                        },
+                        "option": []
+                    }
+                },
+                {
+                    "id": "xx101dxxasdsas",
+                    "index": 1,
+                    "deleted": null,
+                    "deprecated": false,
+                    "question": {
+                        "id": "xx231233c",
+                        "reference": "MALBAT-222",
+                        "question": "This is Q22",
+                        "category": null,
+                        "description": "",
+                        "objective": "",
+                        "evidenceRequired": false,
+                        "notApplicablePossible": false,
+                        "tags": [],
+                        "type": "OPEN",
+                        "response": {
+                            "id": "xxwdxxz",
+                            "message": [],
+                            "evidenceRequired": false,
+                            "evidences": [],
+                            "notApplicable": null,
+                            "OpenAnswer": "Yes . answer22",
+                            "overridden": false,
+                            "respondedAt": "20231114",
+                            "score": 100,
+                            "status": "ACCEPTED",
+                            "choices": []
+                        },
+                        "option": []
+                    }
+                },
+                {
+                    "id": "xx101dxxasdsas",
+                    "index": 2,
+                    "deleted": null,
+                    "deprecated": false,
+                    "question": {
+                        "id": "xx231233c",
+                        "reference": "MALBAT-223",
+                        "question": "This is Q23",
+                        "category": null,
+                        "description": "",
+                        "objective": "",
+                        "evidenceRequired": false,
+                        "notApplicablePossible": false,
+                        "tags": [],
+                        "type": "OPEN",
+                        "response": {
+                            "id": "xxwdxxz",
+                            "message": [],
+                            "evidenceRequired": false,
+                            "evidences": [],
+                            "notApplicable": null,
+                            "OpenAnswer": "Yes . answer23",
+                            "overridden": false,
+                            "respondedAt": "20231114",
+                            "score": 100,
+                            "status": "ACCEPTED",
+                            "choices": []
+                        },
+                        "option": []
+                    }
+                },
+                {
+                    "id": "xx101dxxasdsas",
+                    "index": 3,
+                    "deleted": null,
+                    "deprecated": false,
+                    "question": {
+                        "id": "xx231233c",
+                        "reference": "MALBAT-224",
+                        "question": "This is Q24",
+                        "category": null,
+                        "description": "",
+                        "objective": "",
+                        "evidenceRequired": false,
+                        "notApplicablePossible": false,
+                        "tags": [],
+                        "type": "OPEN",
+                        "response": {
+                            "id": "xxwdxxz",
+                            "message": [],
+                            "evidenceRequired": false,
+                            "evidences": [],
+                            "notApplicable": null,
+                            "OpenAnswer": "Yes . answer24",
+                            "overridden": false,
+                            "respondedAt": "20231114",
+                            "score": 100,
+                            "status": "ACCEPTED",
+                            "choices": []
+                        },
+                        "option": []
+                    }
+                },
+                {
+                    "id": "xx101dxxasdsas",
+                    "index": 4,
+                    "deleted": null,
+                    "deprecated": false,
+                    "question": {
+                        "id": "xx231233c",
+                        "reference": "MALBAT-225",
+                        "question": "This is Q25",
+                        "category": null,
+                        "description": "",
+                        "objective": "",
+                        "evidenceRequired": false,
+                        "notApplicablePossible": false,
+                        "tags": [],
+                        "type": "OPEN",
+                        "response": {
+                            "id": "xxwdxxz",
+                            "message": [],
+                            "evidenceRequired": false,
+                            "evidences": [],
+                            "notApplicable": null,
+                            "OpenAnswer": "Yes . answer25",
+                            "overridden": false,
+                            "respondedAt": "20231114",
+                            "score": 100,
+                            "status": "ACCEPTED",
+                            "choices": []
+                        },
+                        "option": []
+                    }
+                }
+            ],
+            "section": []
+        }
+    ]
+}
