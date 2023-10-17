@@ -292,7 +292,26 @@
                         "type": "OPEN",
                         "response": {
                             "id": "xxwdxxz",
-                            "message": [],
+                            "message": [
+                                {
+                                    "id": "d21edrde32",
+                                    "content": "This is msg num 1",
+                                    "createAt": "2023-04-10T19:38:05.874Z",
+                                    "senderEmail": "abc@email.com",
+                                    "senderFirstName": "Ndepan",
+                                    "senderLastName": "Nbelakang",
+                                    "senderUserId": "1111125fds"
+                                },
+                                {
+                                    "id": "d21edrde32",
+                                    "content": "This is msg num 2",
+                                    "createAt": "2023-04-10T19:38:05.874Z",
+                                    "senderEmail": "abc@email.com",
+                                    "senderFirstName": "Ndepan",
+                                    "senderLastName": "Nbelakang",
+                                    "senderUserId": "1111125fds"
+                                }
+                            ],
                             "evidenceRequired": false,
                             "evidences": [],
                             "notApplicable": null,
@@ -356,7 +375,44 @@
                         "type": "OPEN",
                         "response": {
                             "id": "xxwdxxz",
-                            "message": [],
+                            "message": [
+                                {
+                                    "id": "d21edrde32",
+                                    "content": "This is dddddddddddd1",
+                                    "createAt": "2023-04-10T19:38:05.874Z",
+                                    "senderEmail": "abc@email.com",
+                                    "senderFirstName": "aaaaaaa",
+                                    "senderLastName": "ssssss",
+                                    "senderUserId": "1111125fds"
+                                },
+                                {
+                                    "id": "d21edrde32",
+                                    "content": "Thidfhdfr  dfhdf dfh dfhhhhhhhhhhhhhhh2",
+                                    "createAt": "2023-04-10T19:38:05.874Z",
+                                    "senderEmail": "abc@email.com",
+                                    "senderFirstName": "5rttret",
+                                    "senderLastName": "efrwe",
+                                    "senderUserId": "1111125fds"
+                                },
+                                {
+                                    "id": "d21edrde32",
+                                    "content": "Thasfd asfasfd  1",
+                                    "createAt": "2023-04-10T19:38:05.874Z",
+                                    "senderEmail": "abc@email.com",
+                                    "senderFirstName": "Ndepan",
+                                    "senderLastName": "Nbelakang",
+                                    "senderUserId": "1111125fds"
+                                },
+                                {
+                                    "id": "d21edrde32",
+                                    "content": "Thaqfasfas afsasf asf asf",
+                                    "createAt": "2023-04-10T19:38:05.874Z",
+                                    "senderEmail": "abc@email.com",
+                                    "senderFirstName": "xcxcxcxc",
+                                    "senderLastName": "tytyty",
+                                    "senderUserId": "1111125fds"
+                                }
+                            ],
                             "evidenceRequired": false,
                             "evidences": [],
                             "notApplicable": null,
